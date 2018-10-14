@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.idea
+
+conf/
+crawler/
+data/
+connection/
+result/
+exec/
+bot.py
+data_loader.py
+data_collection.py
